@@ -1,7 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+
+
+
+<a href="https://git.io/typing-svg"  ><img   src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=300&color=00AE32&width=435&lines=%3C%F0%9F%91%8B+Hello+World%2F%3E;%3C%F0%9F%91%8B+Hola+Mundo%2F%3E;%3C%F0%9F%91%8B+Namaste+World%2F%3E;%3C%F0%9F%91%8B+Ciao+World%2F%3E;%3C%F0%9F%91%8B+Ni+Hao+World%2F%3E" alt="Typing SVG" /></a>
 </div>  
-  
 
 ### <div align="center">I'm Pilar, a full-time web application development student💻🚀</div>  
   
@@ -10,6 +12,16 @@
   
 
 - ⚡ Fun fact: I am a university graduate in tourism  
+
+- ❓ ¿What will you find here?
+
+    Projects from school, and homework
+
+- 💻 Projects I'm proud of:
+
+    https://github.com/PilarGuzz/Proyecto_Bootstrap available in https://asianfood-2022.web.app/
+
+
   
 
 <br/>  
@@ -64,12 +76,10 @@
 <a href="https://github.com/PilarGuzz" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/pilar-g-1a27ba142" target="_blank">
+<a href="https://linkedin.com/in/pilarguzmancode" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/pilarguzmann" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+ 
 </div>  
   
 
@@ -83,12 +93,7 @@
 
 
   
-  ## Spotify
 
-<br/>
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31hp627oc4sefwv7mejenji5hnrm&cover_image=true&theme=compact" /></div>  
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=PilarGuzz&&style=flat-square)  
   
