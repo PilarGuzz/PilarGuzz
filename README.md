@@ -6,7 +6,7 @@
 ### <div align="center">I'm Pilar, a full-time web application development student💻🚀</div>  
   
 
-- 🌱 I’m currently learning Java, SQL and Bootstrap  
+- 🌱 I’m currently learning Java, Angular and Node 
   
 
 - ⚡ Fun fact: I am a university graduate in tourism  
